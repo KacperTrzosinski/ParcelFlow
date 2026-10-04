@@ -87,9 +87,9 @@ Każde zagadnienie zostanie opisane w sprawozdaniu wraz z miejscem w kodzie i uz
 
 | Osoba                       | Zakres                                                                                                                                                                                     |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[Student 1]: backend**    | Struktura projektu i CMake, klasy domenowe i hierarchie, warstwa dostępu do bazy, endpointy REST, walidacja po stronie serwera, logika biznesowa (statusy, wycena, trasy)                  |
-| **[Student 2]: frontend**   | Szkielet aplikacji i routing, widoki list i formularzy (CRUD), listy rozwijane dla kluczy obcych, wyświetlanie błędów walidacji, dashboard i wykresy, klient API                           |
-| **[Student 3]: full-stack** | Schemat bazy, ERD, dane testowe, `queries.sql` i transakcje, Docker Compose i wdrożenie, endpointy faktur i raportów, testy integracyjne, sprawozdanie i README, końcowe szlify interfejsu |
+| **[Igor]: backend**    | Struktura projektu i CMake, klasy domenowe i hierarchie, warstwa dostępu do bazy, endpointy REST, walidacja po stronie serwera, logika biznesowa (statusy, wycena, trasy)                  |
+| **[Kamil]: frontend**   | Szkielet aplikacji i routing, widoki list i formularzy (CRUD), listy rozwijane dla kluczy obcych, wyświetlanie błędów walidacji, dashboard i wykresy, klient API                           |
+| **[Kacper]: full-stack** | Schemat bazy, ERD, dane testowe, `queries.sql` i transakcje, Docker Compose i wdrożenie, endpointy faktur i raportów, testy integracyjne, sprawozdanie i README, końcowe szlify interfejsu |
 
 Wszyscy członkowie zespołu przygotowują własną część wniosków projektowych oraz znają całość projektu na potrzeby prezentacji.
 
