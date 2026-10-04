@@ -1,7 +1,9 @@
 # ParcelFlow: system zarządzania przesyłkami dla firmy kurierskiej
 
 **Przedmioty:** Programowanie obiektowe II oraz Bazy danych (jeden wspólny projekt)
-**Zespół:** Igor Żurawski0, Kamil Krysztoforski, Kacper Trzosiński
+
+**Zespół:** Igor Żurawski, Kamil Krysztoforski, Kacper Trzosiński
+
 **Repozytorium:**: [Link do repozytorium](https://github.com/KacperTrzosinski/ParcelFlow)
 
 ---
